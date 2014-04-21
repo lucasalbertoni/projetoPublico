@@ -4,10 +4,8 @@ public class Pessoa {
 
 	
 	private String nome;
-	
-	
- private String teste;L 
-L private int tes;
+	private String teste;
+	private int tes;
     //Alteração
 	//Altereiii
 	//Outra
@@ -17,6 +15,18 @@ L private int tes;
 	}
 	public void setNome(String nome) {
 		this.nome = nome;
+	}
+	public String getTeste() {
+		return teste;
+	}
+	public void setTeste(String teste) {
+		this.teste = teste;
+	}
+	public int getTes() {
+		return tes;
+	}
+	public void setTes(int tes) {
+		this.tes = tes;
 	}
 
 }

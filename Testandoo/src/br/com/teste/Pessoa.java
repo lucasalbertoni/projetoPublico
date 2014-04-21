@@ -1,9 +1,13 @@
 package br.com.teste;
 
 public class Pessoa {
+
 	
 	private String nome;
-	//Alteração
+	
+	
+ private String teste;
+    //Alteração
 	//Altereiii
 	//Outra
 

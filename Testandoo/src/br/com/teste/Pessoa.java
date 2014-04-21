@@ -22,5 +22,11 @@ public class Pessoa {
 	public void setTeste(String teste) {
 		this.teste = teste;
 	}
+	public int getTes() {
+		return tes;
+	}
+	public void setTes(int tes) {
+		this.tes = tes;
+	}
 
 }

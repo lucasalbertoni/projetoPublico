@@ -3,6 +3,7 @@ package br.com.teste;
 public class Pessoa {
 	
 	private String nome;
+	//Alteração
 
 	public String getNome() {
 		return nome;

@@ -6,7 +6,8 @@ public class Pessoa {
 	private String nome;
 	
 	
- private String teste;
+ private String teste;L 
+L private int tes;
     //Alteração
 	//Altereiii
 	//Outra

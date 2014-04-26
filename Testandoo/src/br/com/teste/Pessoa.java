@@ -6,6 +6,7 @@ public class Pessoa {
 	private String nome;
 	private String teste;
 	private int tes;
+	private String bla;
     //Alteração
 	//Altereiii
 	//Outra
@@ -27,6 +28,12 @@ public class Pessoa {
 	}
 	public void setTes(int tes) {
 		this.tes = tes;
+	}
+	public String getBla(){
+		return bla;
+	}
+	public void setBla(String bla){
+		this.bla = bla;
 	}
 
 }
